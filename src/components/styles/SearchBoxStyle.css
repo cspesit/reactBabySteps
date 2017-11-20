@@ -1,0 +1,17 @@
+.searchComponent{
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+    justify-content: center;
+    margin-top:10%;
+}
+.textBox{
+	display: flex;
+   
+}
+.searchBtn{
+
+}
+.noresult{
+	margin-top: 4%;
+}

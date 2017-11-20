@@ -1,0 +1,32 @@
+.productContainer{
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 1px solid lightgrey;
+	margin: 1%;
+}
+.columnContainer{
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 1px solid lightgrey;
+    margin: 1%;
+}
+.productListContainer{
+	display: flex;
+	flex-flow: column wrap;
+}
+.columnContainer div{
+	display: flex;
+	flex: 1;
+}
+.productContainer div{
+	display: flex;
+	flex: 1;	
+}
+.columnContainer div:nth-child(1){
+	display: flex;
+	flex: 0.1;
+}
+.productContainer div:nth-child(1){
+	display: flex;
+	flex: 0.1;
+}

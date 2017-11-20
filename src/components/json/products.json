@@ -1,0 +1,29 @@
+{
+	"productsList":[
+		 {
+			"productName" : "SOAP",
+			"description" : "Used for Transporting",
+			"price" : "1"
+		},
+		{
+			"productName" : "HTTP",
+			"description" : "Protocol",
+			"price" : "1"
+		},
+		{
+			"productName" : "HTML",
+			"description" : "Structuring web page",
+			"price" : "1"
+		},
+		{
+			"productName" : "CSS",
+			"description" : "Styling an web page",
+			"price" : "1"
+		},
+		{
+			"productName" : "Javascript",
+			"description" : "Dynamic interaction",
+			"price" : "1"
+		}
+	]
+}

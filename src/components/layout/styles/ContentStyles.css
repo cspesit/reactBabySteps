@@ -1,0 +1,12 @@
+.mainWrapper{
+	border: 1px solid grey;
+    min-height: 500px;
+    margin: 2% 10% 10% 10%;
+    background-color: white;
+}
+.bodyWrapper{
+	min-height: 350px;
+}
+.EFooter{
+	background-color: lightgrey;
+}
